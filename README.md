@@ -1,10 +1,10 @@
 # Data Manipulation In R
  Assignment related to manipulations using different packages
   Flight delays data (csv)
- Load the data set FlightDelays located at /Data Science R/Assignments/Non Graded
- assignments/Topic 6.1 Data Manipulation,
+ Load the data set FlightDelays 
 
 Questions
+
 The data has information on the flights over the year 2004 and if a particular flight was
 delayed or not.
 1. Find out the number of delayed flights for all weekdays
