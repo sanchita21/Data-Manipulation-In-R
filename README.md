@@ -20,3 +20,9 @@ Hints:
 are supplying the correct date specification. Eg: a string like 1/1/2001, can mean both 1st
 January 2001 and January 1 2001. Make sure you check the format of date column before
 proceeding with the assignment.
+
+
+
+Use of packages
+Lubridate (for datetime manipulations)
+dplyr     (for manipulations)
